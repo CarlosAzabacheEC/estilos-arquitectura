@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Estilos de Arquitectura", "Estilos de Arquitectura", "{337C13EE-F160-4DD9-9E10-75D1A9CE6759}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Patrones de diseño Arquitectonico", "Patrones de diseño Arquitectonico", "{67A3E585-20D2-4DF2-A091-1802C34C1973}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Event Sourcing", "Event Sourcing", "{B9A50BAE-8AC9-44DD-9B08-DC1607F8E831}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventSourcingLab", "Estilos de Arquitectura\Patrones de diseño Arquitectonico\Event Sourcing\EventSourcingLab\EventSourcingLab.csproj", "{0843C31A-25B1-454E-9D74-DD1B5127AD26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0843C31A-25B1-454E-9D74-DD1B5127AD26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0843C31A-25B1-454E-9D74-DD1B5127AD26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0843C31A-25B1-454E-9D74-DD1B5127AD26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0843C31A-25B1-454E-9D74-DD1B5127AD26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{67A3E585-20D2-4DF2-A091-1802C34C1973} = {337C13EE-F160-4DD9-9E10-75D1A9CE6759}
+		{B9A50BAE-8AC9-44DD-9B08-DC1607F8E831} = {67A3E585-20D2-4DF2-A091-1802C34C1973}
+		{0843C31A-25B1-454E-9D74-DD1B5127AD26} = {B9A50BAE-8AC9-44DD-9B08-DC1607F8E831}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D4A243D3-A1F5-4633-9B1B-68645EAB57C3}
+	EndGlobalSection
+EndGlobal
