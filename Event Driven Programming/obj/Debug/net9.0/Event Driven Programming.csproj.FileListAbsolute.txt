@@ -1,0 +1,15 @@
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\bin\Debug\net9.0\Event Driven Programming.exe
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\bin\Debug\net9.0\Event Driven Programming.deps.json
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\bin\Debug\net9.0\Event Driven Programming.runtimeconfig.json
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\bin\Debug\net9.0\Event Driven Programming.dll
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\bin\Debug\net9.0\Event Driven Programming.pdb
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.sourcelink.json
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.dll
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\refint\Event Driven Programming.dll
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.pdb
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\Event Driven Programming.genruntimeconfig.cache
+C:\Users\Lenovo\Documents\Cursos - Aprendizaje - prácticas\Arquitectura de Software\Event Driven Programming\obj\Debug\net9.0\ref\Event Driven Programming.dll
