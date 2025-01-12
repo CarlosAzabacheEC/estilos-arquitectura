@@ -1,0 +1,2 @@
+
+La Programación Orientada a Eventos o Event-Driven Programming (EDP) es un paradigma de programación que se basa en la idea de que el flujo del programa está determinado por eventos, como la interacción del usuario, mensajes de otros programas o señales de hardware. En este modelo, el sistema "escucha" eventos y ejecuta acciones específicas en respuesta a esos eventos.
